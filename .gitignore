@@ -1,4 +1,6 @@
 cloud-config-server/target
 cloud-config-server/.settings
+cloud-simple-server/target
+cloud-simple-server/.settings
 *.classpath
 *.project
