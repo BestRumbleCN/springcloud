@@ -1,4 +1,2 @@
-cloud-config-server/target
-cloud-config-server/.settings
-*.classpath
-*.project
+/target/
+/bin/
